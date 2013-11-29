@@ -1,0 +1,50 @@
+[
+    {
+        "id": 1,
+        "text": "用户管理",
+        "url": "http://www.baidu.com",
+        "leaf": false,
+        "expanded": true,
+        "children": [
+            {
+                "id": 2,
+                "text": "基本信息",
+                "url": "http://www.sina.com.cn",
+                "leaf": true
+            },
+            {
+                "id": 3,
+                "text": "信息管理",
+                "url": "http://www.google.com",
+                "leaf": true
+            },
+            {
+                "id": 4,
+                "text": "添加用户",
+                "url": "http://www.pconline.com.cn",
+                "leaf": true
+            }
+        ]
+    },
+    {
+        "id" : 5,
+        "text": "产品管理",
+        "url" : "http://www.weiphone.com/",
+        "leaf" : false,
+        "expanded": true,
+        "children": [
+            {
+                "id": 6,
+                "text": "产品信息",
+                "url": "http://www.pconline.com.cn",
+                "leaf": true
+            },
+            {
+                "id": 7,
+                "text": "产品添加",
+                "url": "http://www.pconline.com.cn",
+                "leaf": true
+            }
+        ]
+    }
+]
