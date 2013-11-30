@@ -8,7 +8,6 @@
 Ext.define("Demo.store.menuStore", {
     extend: 'Ext.data.TreeStore',
     defaultRoodId: 'root',
-    requires: 'Demo.model.menuModel',
     model: 'Demo.model.menuModel',
 
     proxy: {
